@@ -11,3 +11,10 @@ Totaal van 7 boeken geschreven door JK Rowling.
 ### Films
 
 Harry Potter filmserrie bestaat uit 8 films. Deze zijn uitgekomen tussen 2001 en 2011. 
+
+
+[Films](films.md)
+
+[Boeken](boeken.md)
+
+[Contact](contact.md)
