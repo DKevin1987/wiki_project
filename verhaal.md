@@ -6,4 +6,4 @@ Merge conflict test regel 4 en 5 erbij gekomen.
 
 Merge conflict test regel 7 en 8 erbij gekomen.
 
-Merge conflict test regel 19 en 10 erbij gekomen.
+Merge conflict test regel 19 en 11 erbij gekomen.
